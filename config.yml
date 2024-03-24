@@ -1,0 +1,3 @@
+word2vec:  
+  path: "C:\\Eextend\\dataWord2vec\\GoogleNews-vectors-negative300.bin\\GoogleNews-vectors-negative300.bin"
+  dimension: 1024
